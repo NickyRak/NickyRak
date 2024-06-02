@@ -11,9 +11,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 👋 Hi, I'm Nicky a technology enthusiast
-- 💻 I'm a fullstack developer (junior)
+- 💻 I'm a frontend developer (junior)
 - 💫 I'm also a designer, so I'm familiar with UI and UX design
-- 🅿 In the professional field, I'm still a noob, but I can assure you that I have plenty of qualities that I can use.
+- 🅿 In the professional field, I work as an AS/400 developer subcontracted to HARDIS GROUP. I am still a novice in the field, but I am confident that I can bring many skills
 - 🌐 I'm also eager to engage in numerous collaborative projects and witness the vast proliferation of methodology development worldwide. Wish me luck!
 - 💌 How to reach me: nickyrakotoarimanana@gmail.com
 
